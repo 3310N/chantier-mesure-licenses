@@ -1,0 +1,14 @@
+{
+  "clientA": {
+    "status": "pending"
+  },
+  "clientB": {
+    "status": "paid"
+  },
+  "clientC": {
+    "status": "unpaid"
+  },
+  "default_client": {
+    "status": "pending"
+  }
+}
