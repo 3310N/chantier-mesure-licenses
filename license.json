@@ -1,14 +1,7 @@
 {
-  "clientA": {
-    "status": "pending"
-  },
-  "clientB": {
-    "status": "paid"
-  },
-  "clientC": {
-    "status": "unpaid"
-  },
-  "default_client": {
-    "status": "pending"
-  }
+  "demo_client_001": "paid",
+  "client_002": "pending", 
+  "client_003": "unpaid",
+  "test_client": "paid",
+  "default_client": "pending"
 }
