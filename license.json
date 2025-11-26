@@ -1,5 +1,5 @@
 {
-  "demo_client_001": "unpaid",
+  "demo_client_001": "paid",
   "client_002": "pending", 
   "client_003": "unpaid",
   "test_client": "paid",
