@@ -1,7 +1,29 @@
 {
-  "demo_client_001": "paid",
-  "client_002": "pending", 
-  "client_003": "unpaid",
-  "test_client": "paid",
-  "default_client": "pending"
+  "contact_info": {
+    "owner": "EL MAHDI MASBAH",
+    "email": "mehdimasbah@gmail.com",
+    "phone": "0634050512"
+  },
+  "clients": {
+    "nabil_fekkak": {
+      "status": "unpaid",
+      "client_name": "Nabil Fekkak",
+      "contact_email": "nabil.fekkak@example.com"
+    },
+    "demo_client_001": {
+      "status": "paid", 
+      "client_name": "Demo Client",
+      "contact_email": "demo@example.com"
+    },
+    "client_002": {
+      "status": "pending",
+      "client_name": "Client Two",
+      "contact_email": "client2@example.com"
+    },
+    "default_client": {
+      "status": "pending",
+      "client_name": "Default Client",
+      "contact_email": "default@example.com"
+    }
+  }
 }
