@@ -6,7 +6,7 @@
   },
   "clients": {
     "nabil_fekkak": {
-      "status": "unpaid",
+      "status": "pending",
       "client_name": "Nabil Fekkak",
       "contact_email": "nabil.fekkak@example.com"
     },
